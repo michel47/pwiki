@@ -4,8 +4,8 @@
 
 # main items
 
- - [[AItems|action list]] & [agenda](agenda)
- - [[notes]], [[ideas]], [[pmjournal]]
+ - [[AItems|action list]] & [agenda](../agenda)
+ - [[wiki/notes|notes]], [[ideas]], [[pmjournal]]
  - [[holowiki]]
  - [[knowledge]] db & [[workflowy]]
  - [documents](documents)
