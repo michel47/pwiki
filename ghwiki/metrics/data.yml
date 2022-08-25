@@ -1,0 +1,35 @@
+--- # my metrics data ...
+date: ~
+tracked:
+- mail-opened: [1626808764, 1]
+- bills-paid: [1626808764, 1]
+- 41score: [1626808764, 11]
+- nb-customers: [1626808764, 0]
+- nb-dances: [1626808764, 0]
+- nb-peed: [1626808764, 0]
+
+
+- paddle: [1626808764, 1]
+- bicycle: [1626808764, 1]
+- groceries: [1626808764, 0]
+
+time:
+- ikiguy: 8
+- worked: 3
+- freed: 1
+- admin: 2
+
+values:
+- fiat: 0
+- debt: 0
+- money4.0: 0
+
+events:
+- time up: 5:30
+- meal times: 7,12,23
+- time to bed: 23:50
+
+meals:
+- proteins (eggs,fish, etc.)
+- fruits
+

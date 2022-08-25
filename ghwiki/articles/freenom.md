@@ -1,0 +1,4 @@
+# freenom settings
+
+
+ * [[expiration]] dates : 

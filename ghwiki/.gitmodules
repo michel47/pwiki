@@ -1,0 +1,9 @@
+[submodule "diary"]
+	path = diary
+	url = keybase://private/michelc/diary
+[submodule "GitJournal"]
+	path = GitJournal
+	url = git@github.com:michel47/GitJournal.git
+[submodule "github"]
+	path = github
+	url = git@github.com:michel47/pwiki.git

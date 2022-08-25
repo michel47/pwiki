@@ -1,0 +1,18 @@
+# Autonomous sensory meridian response
+
+ * [[https://duckduckgo.com/?q=what+is+ASMR&t=canonical&ia=video|what is ASMR]]
+ * [[https://www.youtube.com/watch?v=37IBENyp2F4|What is ASMR?]]
+ * [[https://www.youtube.com/watch?v=DxjfyBEIl7Q|How ASMR Became an Internet Phenomenon | Annals of Obsession | The New Yorker]]
+ * [[https://www.youtube.com/watch?v=752doTtSMKs|Why Do Soft Noises Make Your Brain Tingle? - The Science Behind ASMR]]
+ * [[https://www.youtube.com/watch?v=N7sojv9_FEc|ASMR is Becoming Dangerous]]
+ * [[https://www.youtube.com/watch?v=E8Ea159nx2g|Nausea Relief Frequency ➤ Nausea Treatment & Healing ➤ Binaural Beats Sound Therapy]]
+ * [[https://www.youtube.com/watch?v=CDDm6eu3unU|ASMR BINAURAL HEAD ATTENTION - New Mic Test. Popular Triggers. Extreme Tingles.]]
+ * [[https://www.youtube.com/watch?v=DBuqwLz9Mac|A Binaural ASMR Hearing Test | Ear to Ear]]
+ * [[https://www.youtube.com/watch?v=w3tAVv-e4CY|ASMR Ancient Chinese Facial Acupoints Massage]]
+ * [[https://www.youtube.com/watch?v=zvuJ3vOigRE|Ear Cleaning Qingdao - ASMR]]
+ * [[https://youtu.be/7Xpy9ESiBEI|CRANIAL NERVE Exam Psychedelic Roleplay]]
+ * [[https://www.youtube.com/watch?v=9nrbre7dNTU|ARE YOUR TINGLES WEAK? Take This Tingle Diagnostic Test to Find Out! **Intense** (Binaural)]]
+ * [[https://www.youtube.com/watch?v=ik50tzNj3uY|ASMR | The MOST TINGLES You'll Ever Have 7! (Just See If It Works for You)]]
+ * [[https://www.youtube.com/watch?v=iPb9232CAjs|Why I Quit ASMR? What’s Next...]]
+ * [[https://www.youtube.com/watch?v=GF3G49wngGY|INTENSE Ear Cleaning MEGA Tingles]]
+ * [[https://www.youtube.com/watch?v=h7dp1H4bpOg&list=PLN2ibLrDMmUfPNkoJNLwAdEBNcuutD0hC|DEEP Guided Sleep Meditation To Let Your Purpose Find YOU | ASMRish]]

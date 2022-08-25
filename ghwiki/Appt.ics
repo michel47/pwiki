@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART;TZID="America/Toronto":20200619T123000
+DTEND;TZID="America/Toronto":20200619T133000
+LOCATION;ENCODING=QUOTED-PRINTABLE:Jai Wellbeing
+DESCRIPTION:Michel Combes has Individual Energy Clearing (Video Session) session scheduled with -Jai - at Toronto Toronto ON M2K0E2, located at Jai Wellbeing.  Please go to https://clients.mindbodyonline.com/classic/ws?studioId=218489 to cancel, or call (647) 720-2712.
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Individual Energy Clearing (Video Session)
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR
