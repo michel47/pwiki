@@ -1,0 +1,3 @@
+[submodule "ghwiki"]
+	path = ghwiki
+	url = https://github.com/michel47/pwiki.wiki.git
